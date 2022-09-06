@@ -1,1 +1,2 @@
-head -n 3 iacta
+#!/bin/bash
+head -n 3 /alx-system_engineering-devops/0x02-shell_redirections/iacta
